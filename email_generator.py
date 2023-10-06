@@ -2,17 +2,18 @@ import json
 
 from dotenv import load_dotenv
 from langchain.schema import SystemMessage, HumanMessage
-from langchain.chat_models import ChatOpenAI, ChatVertexAI
+from langchain.chat_models import ChatOpenAI
 
 load_dotenv()
 
 def generate_email(prompt):
-
     model = ChatOpenAI(
         model_name='gpt-3.5-turbo',
         temperature=0.1, 
         max_tokens=400, 
-        streaming=True)
+        streaming=True
+    )
+    
     email_sample = model(prompt)
 
     return email_sample.content

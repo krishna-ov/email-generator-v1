@@ -1,0 +1,19 @@
+{
+    "companies": {
+        "company 1": {
+            "name": "Outreach",
+            "founder": "Manuel Medina",
+            "description": "Developer of a semiautomated sales engagement platform designed to automate repetitive sales tasks on behalf of coworkers while prioritizing key customer touchpoints. The company's platform uses machine learning to automate and personalize communication, track sales statistics, collaborate with teams, send automated alerts, and assist sales teams to touch all leads, opportunities, and customers with targeting content, enabling companies to increase the volume of sales meetings and create an efficient workflow for salespeople. The company raised $9.2 million of Series A venture funding in a deal led by Mayfield on October 27, 2015, putting the company's pre-money valuation at $23.52 million. MHS Capital and Floodgate Fund also participated in the round. The funding will support continued technology development and hiring in engineering, sales, marketing and business development."
+        },
+        "company 2":{
+            "name": "Trustible",
+            "founder":"Gerald Kierce",
+            "description":"Trustible™ is an AI Governance management platform that integrates with existing AI/ML platforms and helps organizations define necessary AI policies, implement and enforce responsible AI practices, and generate evidence to prove compliance with emerging AI regulatory frameworks and be prepared for AI audits. Trust in AI systems, and the organizations deploying them, is the single most important factor that will drive successful AI adoption. The way AI is developed and deployed is going to go through a radical transformation, moving away from the traditional software development life cycle of moving fast and breaking things, and more towards a process of how other high risk products are developed, such as medical devices, where potential harms and risks are closely tracked and mitigated. Trustible can guide organizations through that change and help enable them with the workflows, documentation tools and reporting capabilities necessary for that more regulated future. Building trust and deploying AI ethically goes beyond just good governance and regulatory compliance, but those are necessary fundamental building blocks that must be in place first and must be done well."
+        },
+        "company 3":{
+            "name": "Zeotap",
+            "founder":"Daniel Heer",
+            "description":"Developer of a customer intelligence platform designed to help companies better understand their customers and predict behaviors. The company's platform meets the General Data Protection Regulation (GDPR) enterprise data privacy and security standards and incorporates independent, integrated modules including customer data unification, identity resolution, enrichment, analytics and modeling, and activation to multiple partners in the marketing ecosystem, enabling brands to build on a nucleus of first-party data to win new customers and grow their loyal base and invest in meaningful experiences. 5xmais sold a stake in the company to an undisclosed buyer in approximately October 2022. Previously, the company raised an undisclosed amount of Series D venture funding from Zobito, Claret Capital Partners, and SignalFire on September 29, 2022. Plug and Play Tech Center and AIV Capital also participated in the round."
+        }
+    }
+}

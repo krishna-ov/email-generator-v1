@@ -1,5 +1,5 @@
 import streamlit as st
-from email_generator.streamlit_app.email_generator import generate_sample
+from email_generator import generate_sample
 
 # Streamlit interface
 st.title("Email Sample - Testing")

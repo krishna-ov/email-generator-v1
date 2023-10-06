@@ -2,10 +2,10 @@ import streamlit as st
 from email_generator import generate_sample
 
 # Streamlit interface
-st.title("Email Sample - Testing")
+st.title("Email Generator - Testing")
 
 # Dropdown to select a company
-company_names = ["Outreach", "Trustible"]
+company_names = ["Outreach", "Trustible", "Zeotap"]
 selected_company_name = st.selectbox("Select a company:", company_names + ["Enter My Own Company"])
 
 # If "Enter My Own Company" is selected, display input fields
